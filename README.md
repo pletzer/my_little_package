@@ -1,3 +1,5 @@
+![tests](https://github.com/pletzer/my_little_package/actions/workflows/main.yml/badge.svg)
+
 # My Little Package
 
 An example of a very minimal Python package.
